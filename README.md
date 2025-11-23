@@ -8,29 +8,58 @@ A **comprehensive platform** for cybersecurity enthusiasts to participate in the
 
 ## Features
 
-- **HTS-2025 Hackathon Management:** Team registration with round-based scoring (Round 1, 2, 3, Additional Points)
-- **Leaderboard:** Real-time ranking with 5-star rating system
-- **Learning Resources:** Curated cybersecurity tutorials and courses
-- **Community Forum:** Discussion boards for knowledge sharing
-- **Admin Dashboard:** Manage teams, submissions, and resources
-- **Contributor Program:** Allow community members to contribute content
-- **Sponsorship Management:** Partner opportunities for events
+- **HTS-2025 Hackathon Management:** Team registration with round-based scoring (Round 1, 2, 3, Additional Points)  
+- **Leaderboard:** Real-time ranking with 5-star rating system  
+- **Learning Resources:** Curated cybersecurity tutorials and courses  
+- **Community Forum:** Discussion boards for knowledge sharing  
+- **Admin Dashboard:** Manage teams, submissions, and resources  
+- **Contributor Program:** Allow community members to contribute content  
+- **Sponsorship Management:** Partner opportunities for events  
+
+---
+
+## Join the Community
+
+Become a part of the BlackXmask cybersecurity community to:  
+
+- Participate in **hackathons and competitions**  
+- Access **exclusive learning resources**  
+- Collaborate with **peers and senior students**  
+- Earn recognition through **leaderboards and achievements**  
+
+[Join Now](https://blackxmask-official.up.railway.app/)  
+
+---
+
+## Sponsorship Opportunities
+
+We welcome sponsors for:  
+
+- Hackathon events (HTS-2025)  
+- Community projects and challenges  
+- Learning and mentorship programs  
+
+**Interested sponsors** can reach out via our contact page or email.  
+
+---
+
+## Learning & Courses
+
+BlackXmask provides:  
+
+- **Cybersecurity tutorials and courses**  
+- **Hands-on labs and challenges**  
+- Opportunities to **contribute content** and **learn collaboratively**  
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb6d6d2f-df79-4f36-937a-2e9d92ca7d7e" alt="Dashboard" width="70%" />
+  <img src="https://github.com/user-attachments/assets/66aeeda9-946d-49b2-a1c1-f2276916233e" alt="Dashboard View" width="70%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9b21ebb-9e54-451b-93ba-4878f2210af8" alt="Community Room" width="70%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf15b08c-2e52-47d8-a0e3-b3790f47b89f" alt="Leaderboard" width="70%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1996be01-ff68-4f06-a3b0-de33f755aefb" alt="Learning Resources" width="70%" />
+  <img src="https://github.com/user-attachments/assets/aadcf599-6d17-49d8-a731-09b60e91d82c" alt="Community / Forum View" width="70%" />
 </p>
 
 ---
@@ -38,15 +67,13 @@ A **comprehensive platform** for cybersecurity enthusiasts to participate in the
 ## About
 
 This repository is a **public showcase** of the BlackXmask platform.  
-The **source code is private** due to cybersecurity and security considerations.  
+The **source code is private** due to cybersecurity considerations.  
 
-You can **explore the live website** and learn about our features without accessing the source code.
+Explore the live website to see our features in action.  
 
 ---
 
 ## Connect With Us
- 
-- **Email / Contact:** blackxmask.official@gmail.com 
 
----
+- **Email / Contact:** blackxmask.official@gmail.com  
 
